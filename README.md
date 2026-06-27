@@ -143,7 +143,7 @@
 
 💼 Open to Internship & Full-Time Software Engineer Opportunities
 
-📧 **Email:** your-email@gmail.com
+📧 **Email:** your-ppragadeesh555@gmail.com
 
 💬 Feel free to connect with me on LinkedIn!
 
