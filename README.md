@@ -92,7 +92,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pragadeesh5&theme=radical&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragadeesh5&show_icons=true&theme=radical" />
 </p>
 ---
 
