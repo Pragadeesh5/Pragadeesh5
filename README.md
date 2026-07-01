@@ -89,14 +89,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragadeesh5&show_icons=true&theme=radical" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
